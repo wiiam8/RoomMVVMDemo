@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomMVVMDemo</string>
+    <string name="lab_title">Room MVVM Notes</string>
+    <string name="title_hint">Titre de la note</string>
+    <string name="description_hint">Description de la note</string>
+    <string name="add_note">AJOUTER UNE NOTE</string>
+    <string name="delete_all_notes">SUPPRIMER TOUTES LES NOTES</string>
+    <string name="info_text">Clic long sur une note pour la supprimer</string>
+    <string name="default_note_title">Titre</string>
+    <string name="default_note_description">Description</string>
+    <string name="toast_fill_fields">Remplir le titre et la description</string>
+    <string name="toast_note_added">Note ajoutée</string>
+    <string name="toast_note_deleted">Note supprimée</string>
+    <string name="toast_all_deleted">Toutes les notes ont été supprimées</string>
+    <string name="toast_note_title">Titre : %1$s</string>
+</resources>
